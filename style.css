@@ -1,0 +1,63 @@
+body {
+  margin: auto;
+}
+a {
+  text-decoration: none;
+}
+/* Header CSS */
+#header {
+  height: 60px;
+  background-color: #f58d72;
+}
+#icon {
+  float: left;
+  margin-left: 1%;
+  margin-top: -1%;
+}
+#social {
+  float: right;
+}
+.slogo {
+  height: 50px;
+  weight: 50px;
+  border-radius: 29%;
+}
+/* Search CSS*/
+#search {
+  height: 400px;
+  width: 100%;
+  background-image: url(Images/home_wallpaper.png);
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+  background-size: 100% 800px;
+}
+
+#logo {
+  height: 150px;
+  width: 150px;
+  background-color: rgba(240 229 229/ 80%);
+  border-radius: 50%;
+  margin-top: 2%;
+  margin-left: 47%;
+  position: absolute;
+}
+
+#logo > span {
+  margin-top: 18%;
+  margin-left: 29%;
+  position: absolute;
+  font-size: 80px;
+}
+
+/* QuickSearch CSS */
+#quickSearch {
+  height: 600px;
+  width: 100%;
+  border: 8px double rgb(255, 0, 98);
+}
+/* Footer CSS */
+#footer {
+  height: 60px;
+  width: 100%;
+  border: 5px groove rgb(253, 207, 0);
+}
