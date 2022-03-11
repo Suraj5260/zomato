@@ -131,6 +131,9 @@ select {
   margin-top: 18%;
   margin-left: 9%;
 }
+.componentHeading > a {
+  color: orange;
+}
 
 .componentSubheading {
   color: grey;
